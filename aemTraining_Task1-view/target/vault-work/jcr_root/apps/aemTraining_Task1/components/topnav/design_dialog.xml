@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    title="from page properties"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <News
+                jcr:primaryType="cq:Panel"
+                name="News"
+                title="News">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <type
+                        jcr:primaryType="cq:Widget"
+                        anchor="90%"
+                        xtype="hidden"/>
+                    <rootPage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Root path"
+                        name="./rootPageNews"
+                        xtype="pathfield"/>
+                    <multifield
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click '+' to add a new section"
+                        fieldLabel="Second level menu"
+                        name="./multifieldnews"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="cq:Widget"
+                            xtype="pathfield"/>
+                    </multifield>
+                </items>
+            </News>
+            <Events
+                jcr:primaryType="cq:Panel"
+                name="Events"
+                title="Events">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <type
+                        jcr:primaryType="cq:Widget"
+                        anchor="90%"
+                        xtype="hidden"/>
+                    <rootPage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Root path"
+                        name="./rootPageEvents"
+                        xtype="pathfield"/>
+                    <multifield
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click '+' to add a new section"
+                        fieldLabel="Second level menu"
+                        name="./multifieldevents"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="cq:Widget"
+                            xtype="pathfield"/>
+                    </multifield>
+                </items>
+            </Events>
+            <Communities
+                jcr:primaryType="cq:Panel"
+                title="Communities">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <type
+                        jcr:primaryType="cq:Widget"
+                        anchor="90%"
+                        xtype="hidden"/>
+                    <rootPage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Root path"
+                        name="./rootPageCommunities"
+                        xtype="pathfield"/>
+                    <multifield
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click '+' to add a new section"
+                        fieldLabel="Second level menu"
+                        name="./multifieldcommunities"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="cq:Widget"
+                            xtype="pathfield"/>
+                    </multifield>
+                </items>
+            </Communities>
+            <Toolkit
+                jcr:primaryType="cq:Panel"
+                title="Toolkit">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <type
+                        jcr:primaryType="cq:Widget"
+                        anchor="90%"
+                        xtype="hidden"/>
+                    <rootPage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Root path"
+                        xtype="pathfield"/>
+                    <multifield
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click '+' to add a new section"
+                        fieldLabel="Second level menu"
+                        name="./multifieldtoolkit"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="cq:Widget"
+                            xtype="pathfield"/>
+                    </multifield>
+                </items>
+            </Toolkit>
+            <Media
+                jcr:primaryType="cq:Panel"
+                title="Media">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <type
+                        jcr:primaryType="cq:Widget"
+                        anchor="90%"
+                        xtype="hidden"/>
+                    <rootPage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Root path"
+                        name="./rootPageMedia"
+                        xtype="pathfield"/>
+                    <multifield
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click '+' to add a new section"
+                        fieldLabel="Second level menu"
+                        name="./multifieldmedia"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="cq:Widget"
+                            xtype="pathfield"/>
+                    </multifield>
+                </items>
+            </Media>
+            <Company
+                jcr:primaryType="cq:Panel"
+                title="Company">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <type
+                        jcr:primaryType="cq:Widget"
+                        anchor="90%"
+                        xtype="hidden"/>
+                    <rootPage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Root path"
+                        name="./rootPageCompany"
+                        xtype="pathfield"/>
+                    <multifield
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click '+' to add a new section"
+                        fieldLabel="Second level menu"
+                        name="./multifieldcompany"
+                        xtype="multifield">
+                        <fieldConfig
+                            jcr:primaryType="cq:Widget"
+                            xtype="pathfield"/>
+                    </multifield>
+                </items>
+            </Company>
+        </items>
+    </items>
+</jcr:root>

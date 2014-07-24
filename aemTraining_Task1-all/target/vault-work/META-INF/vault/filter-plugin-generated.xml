@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aemTraining_Task1/install/aemTraining_Task1-services-1.1.jar" />
+    <filter root="/apps/aemTraining_Task1/install/aemTraining_Task1-taglib-1.1.jar" />
+    <filter root="/etc/packages/com.company.AEMTraining/aemTraining_Task1-config-1.1.zip" />
+    <filter root="/etc/packages/com.company.AEMTraining/aemTraining_Task1-view-1.1.zip" />
+    <filter root="/etc/packages/com.cqblueprints.taglib/cqblueprints-taglib-all-5.5.1.zip" />
+</workspaceFilter>

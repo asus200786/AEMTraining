@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter version="1.0">
+    <filter root="/apps/aemTraining_Task1">
+        <exclude pattern="/apps/aemTraining_Task1/install.*"/>
+        <exclude pattern="/apps/aemTraining_Task1/runmodes.*"/>
+    </filter>
+    <filter root="/etc/clientlibs/aemTraining_Task1"/>
+	<filter root="/etc/designs/aemTraining_Task1">
+        <exclude pattern="/etc/designs/aemTraining_Task1/jcr:content.*"/>
+    </filter>
+</workspaceFilter>

@@ -1,0 +1,7 @@
+Export-Package: com.AEMTraining.aemTraining_Task1
+Private-Package: com.AEMTraining.aemTraining_Task1.impl
+Bundle-Name: Sample project aemTraining_Task1
+Bundle-Description: Contains the aemTraining_Task1 sample bundle
+Bundle-SymbolicName: com.AEMTraining.aemTraining_Task1
+Bundle-Version: 1.0-SNAPSHOT
+Bundle-Activator: com.AEMTraining.aemTraining_Task1.impl.Activator

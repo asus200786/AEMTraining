@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.company.AEMTraining - aemTraining_Task1-view</comment>
+<entry key="createdBy">Hanna_Sushchanka</entry>
+<entry key="name">aemTraining_Task1-view</entry>
+<entry key="created">2014-07-24T14:18:37.110+0300</entry>
+<entry key="groupId">com.company.AEMTraining</entry>
+<entry key="version">1.1</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.company.AEMTraining</entry>
+<entry key="description">All of the CQ component and template definitions for the 'aemTraining_Task1' project.
+
+        During development, the files in this module should be sync'd to your CQ instance using the FileVault command
+        line tool available with CQ. There is also a plugin for Eclipse called "vaultclipse" that can be used instead
+        of the command line tool.
+
+        It is recommended that this module not contain any Java code and instead Java code should be placed in either
+        the aemTraining_Task1-taglib module or the aemTraining_Task1-services module as appropriate.</entry>
+<entry key="artifactId">aemTraining_Task1-view</entry>
+<entry key="path">/etc/packages/com.company.AEMTraining/aemTraining_Task1-view.zip</entry>
+</properties>

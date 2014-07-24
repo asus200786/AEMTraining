@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.company.AEMTraining - aemTraining_Task1-all</comment>
+<entry key="createdBy">Hanna_Sushchanka</entry>
+<entry key="name">aemTraining_Task1-all</entry>
+<entry key="created">2014-07-24T14:18:49.299+0300</entry>
+<entry key="groupId">com.company.AEMTraining</entry>
+<entry key="version">1.1</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.company.AEMTraining</entry>
+<entry key="description">Builds a CQ package containing all components of the 'aemTraining_Task1' project. Useful for making formal
+        releases to QA and production environments for example.</entry>
+<entry key="artifactId">aemTraining_Task1-all</entry>
+<entry key="path">/etc/packages/com.company.AEMTraining/aemTraining_Task1-all.zip</entry>
+</properties>

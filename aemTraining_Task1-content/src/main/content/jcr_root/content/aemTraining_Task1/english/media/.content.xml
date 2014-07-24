@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2014-06-26T15:02:36.108+03:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/aemTraining_Task1/templates/contentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Media"
+        jcr:uuid="511098b6-4201-41ef-89c8-1563b2613ea1"
+        sling:resourceType="aemTraining_Task1/components/contentpage"/>
+    <it-events/>
+    <sports/>
+    <other/>
+</jcr:root>

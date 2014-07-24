@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2014-06-30T18:56:40.477+03:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/wcm/core/templates/designpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Task1Sushchanka"
+        sling:resourceType="wcm/core/components/designer">
+        <contentpage jcr:primaryType="nt:unstructured">
+            <topnav
+                jcr:lastModified="{Date}2014-06-30T18:56:40.472+03:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemTraining_Task1/components/topnav"
+                multifieldcompany="[/content/task1sushchanka/english/company/policy,/content/task1sushchanka/english/company/benefits]"
+                multifieldevents="[/content/task1sushchanka/english/events/international-events,/content/task1sushchanka/english/events/parties,/content/task1sushchanka/english/events/sports]"
+                multifieldmedia="[/content/task1sushchanka/english/media/it-events,/content/task1sushchanka/english/media/sports]"
+                multifieldnews="[/content/task1sushchanka/english/news/features,/content/task1sushchanka/english/news/official]"
+                rootPageCommunities="/content/task1sushchanka/english/communities"
+                rootPageCompany="/content/task1sushchanka/english/company"
+                rootPageEvents="/content/task1sushchanka/english/events"
+                rootPageMedia="/content/task1sushchanka/english/media"
+                rootPageNews="/content/task1sushchanka/english/news"/>
+        </contentpage>
+    </jcr:content>
+    <images/>
+    <static.css/>
+</jcr:root>
