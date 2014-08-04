@@ -1,5 +1,5 @@
 -classpath
-'D:/AEM Training/Tasks/Task2_Sushchanka_AEMTraining/aemTraining_Task1/aemTraining_Task1-taglib/target/classes;C:/Users/Hanna_Sushchanka/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/apache/sling/org.apache.sling.api/2.4.3-R1488084/org.apache.sling.api-2.4.3-R1488084.jar;C:/Users/Hanna_Sushchanka/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar;C:/Users/Hanna_Sushchanka/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/jsp/squeakysand-jsp/0.4.0/squeakysand-jsp-0.4.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/sling/squeakysand-sling-taglib/0.3.0/squeakysand-sling-taglib-0.3.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/company/AEMTraining/AEMTraining_Task2_Sushchanka-services/1.1/AEMTraining_Task2_Sushchanka-services-1.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/osgi/org.osgi.core/4.1.0/org.osgi.core-4.1.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/jcr/squeakysand-jcr-taglib/0.3.0/squeakysand-jcr-taglib-0.3.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/cqblueprints/taglib/cqblueprints-taglib/5.5.1/cqblueprints-taglib-5.5.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/osgi/squeakysand-osgi/0.4.0/squeakysand-osgi-0.4.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/squeakysand-commons/0.4.0/squeakysand-commons-0.4.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/javax/jcr/jcr/2.0/jcr-2.0.jar'
+'D:/temp2/AEMTraining/aemTraining_Task1-taglib/target/classes;C:/Users/Hanna_Sushchanka/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/apache/sling/org.apache.sling.api/2.4.3-R1488084/org.apache.sling.api-2.4.3-R1488084.jar;C:/Users/Hanna_Sushchanka/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/jcr/squeakysand-jcr/0.3.0/squeakysand-jcr-0.3.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/jsp/squeakysand-jsp/0.4.0/squeakysand-jsp-0.4.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/sling/squeakysand-sling-taglib/0.3.0/squeakysand-sling-taglib-0.3.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/Hanna_Sushchanka/.m2/repository/org/osgi/org.osgi.core/4.1.0/org.osgi.core-4.1.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/jcr/squeakysand-jcr-taglib/0.3.0/squeakysand-jcr-taglib-0.3.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/sling/squeakysand-sling/0.3.0/squeakysand-sling-0.3.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/cqblueprints/taglib/cqblueprints-taglib/5.5.1/cqblueprints-taglib-5.5.1.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/osgi/squeakysand-osgi/0.4.0/squeakysand-osgi-0.4.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/com/squeakysand/squeakysand-commons/0.4.0/squeakysand-commons-0.4.0.jar;C:/Users/Hanna_Sushchanka/.m2/repository/javax/jcr/jcr/2.0/jcr-2.0.jar'
 -doclet
 'com.squeakysand.jsp.tldgenerator.TldGeneratorDoclet'
 -docletpath
@@ -9,9 +9,9 @@
 -source
 '1.6'
 -sourcepath
-'D:/AEM Training/Tasks/Task2_Sushchanka_AEMTraining/aemTraining_Task1/aemTraining_Task1-taglib/src/main/java'
+'D:/temp2/AEMTraining/aemTraining_Task1-taglib/src/main/java'
 -d
-'D:/AEM Training/Tasks/Task2_Sushchanka_AEMTraining/aemTraining_Task1/aemTraining_Task1-taglib/target/classes/META-INF'
+'D:/temp2/AEMTraining/aemTraining_Task1-taglib/target/classes/META-INF'
 -shortName
 'AEMTrainingTask2Sushchanka'
 -filename
@@ -25,7 +25,7 @@
 -specificationVersion
 '2.1'
 -tagFilesDir
-'D:/AEM Training/Tasks/Task2_Sushchanka_AEMTraining/aemTraining_Task1/aemTraining_Task1-taglib/src/main/resources/META-INF/tags'
+'D:/temp2/AEMTraining/aemTraining_Task1-taglib/src/main/resources/META-INF/tags'
 -tagFilesInclude
 '**/*.tag,**/*.tagx'
 -processTagFiles

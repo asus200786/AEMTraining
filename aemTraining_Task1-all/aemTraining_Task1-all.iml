@@ -8,7 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.company.AEMTraining:aemTraining_Task1-taglib:1.1" level="project" />
+    <orderEntry type="module" module-name="AEMTraining_Task2_Sushchanka-taglib" />
     <orderEntry type="library" name="Maven: com.squeakysand.jsp:squeakysand-jsp:0.4.0" level="project" />
     <orderEntry type="library" name="Maven: com.squeakysand:squeakysand-commons:0.4.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
@@ -16,11 +16,12 @@
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.6.1" level="project" />
     <orderEntry type="library" name="Maven: com.squeakysand.osgi:squeakysand-osgi:0.4.0" level="project" />
-    <orderEntry type="library" name="Maven: com.company.AEMTraining:aemTraining_Task1-services:1.1" level="project" />
     <orderEntry type="library" name="Maven: com.cqblueprints.taglib:cqblueprints-taglib:5.5.1" level="project" />
     <orderEntry type="library" name="Maven: com.squeakysand.jcr:squeakysand-jcr-taglib:bnd:0.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.jcr:squeakysand-jcr:0.3.0" level="project" />
     <orderEntry type="library" name="Maven: com.squeakysand.jsp:squeakysand-jsp-taglib:bnd:0.4.0" level="project" />
     <orderEntry type="library" name="Maven: com.squeakysand.sling:squeakysand-sling-taglib:bnd:0.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squeakysand.sling:squeakysand-sling:0.3.0" level="project" />
   </component>
 </module>
 

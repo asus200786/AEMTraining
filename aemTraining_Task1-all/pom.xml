@@ -27,24 +27,13 @@
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>aemTraining_Task1-config</artifactId>
-            <version>${project.version}</version>
-            <type>content-package</type>
-        </dependency>
-        <dependency>
-            <groupId>${project.groupId}</groupId>
             <artifactId>aemTraining_Task1-view</artifactId>
             <version>${project.version}</version>
             <type>content-package</type>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>aemTraining_Task1-taglib</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>aemTraining_Task1-services</artifactId>
+            <artifactId>AEMTraining_Task2_Sushchanka-taglib</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
